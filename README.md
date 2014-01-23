@@ -1,7 +1,7 @@
 ![Python Logo](http://personal.psu.edu/dwj131/logo.png "Python")
 ======
 
-This is where I upload all of my finished python programs. You might think they are a bit basic but I'm still a beginner. Please feel free to mess around with them; email me at pinpan@taprevu.tk if you've created something interesting! 
+This is where I upload all of my finished python programs. It is an extremely *easy-to-learn* language for beginner programmers. Try it out on your computer (if you have a mac) by opening up the terminal app and typing in '*python*'. You might think the programs are a bit basic but I'm still a beginner. Please feel free to mess around with them; email me at pinpan@taprevu.tk if you've created something interesting! 
 
 I am currently using a Mac setup with Python 2.7. I edit my documents with PyCharm, an excellent python editor. Visit my website [here](https://www.taprevu.blogspot.com "TapRevu").
 
