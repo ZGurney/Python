@@ -25,8 +25,8 @@ This is where I upload all of my finished python programs. Python is an extremel
 * [Better String Formatting](http://docs.python.org/2/library/string.html#format-string-syntax "String Formatting")
 * [Introduction to Object Oriented Programming](http://anandology.com/python-practice-book/object_oriented_programming.html "Intro to OOP")
 
-I am currently using a Mac setup with Python 2.7. I edit my documents with PyCharm, an excellent python editor. Visit my website [here](https://www.taprevu.blogspot.com "TapRevu").
 
+###### I am currently using a Mac setup with Python 2.7. I edit my documents with PyCharm, an excellent python editor. Visit my website [here](https://www.taprevu.blogspot.com "TapRevu").
 <p align="center">
   <img src="http://i61.tinypic.com/b7kzr4.png" alt="My Setup"/>
 </p>
