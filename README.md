@@ -1,7 +1,9 @@
-![Python Logo](http://www.python.org/community/logos/python-logo-master-v3-TM.png "Python")
+<p align="center">
+  <img src="http://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python Logo"/>
+</p>
 ======
 
-This is where I upload all of my finished python programs. It is an extremely *easy-to-learn* language for beginner programmers. Try it out on your computer (if you have a mac) by opening up the terminal app and typing in '*python*'. You might think the programs are a bit basic but I'm still a beginner. Please feel free to mess around with them; email me at pinpan@taprevu.tk if you've created something interesting! 
+This is where I upload all of my finished python programs. Python is an extremely *easy-to-learn* language for beginner programmers. Try it out on your computer by opening up the terminal app and typing in *'python'*. You might think the programs are a bit basic but I'm still a beginner. Please feel free to mess around with them; email me at pinpan@taprevu.tk if you've created something interesting! 
 
 ### Here are my favourite websites for learning python:
 ##### Text Tutorials
