@@ -27,5 +27,9 @@ This is where I upload all of my finished python programs. Python is an extremel
 
 I am currently using a Mac setup with Python 2.7. I edit my documents with PyCharm, an excellent python editor. Visit my website [here](https://www.taprevu.blogspot.com "TapRevu").
 
+<p align="center">
+  <img src="http://i61.tinypic.com/b7kzr4.png" alt="My Setup"/>
+</p>
+
 > “Be the change that you wish to see in the world.” 
 <cite>- *Mahatma Gandhi*</cite>
