@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python Logo"/>
+  <img src="http://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo"/>
 </p>
 ======
 
