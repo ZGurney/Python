@@ -10,6 +10,7 @@ This is where I upload all of my finished python programs. Python is an extremel
 * [Interactive Python](http://interactivepython.org/runestone/static/thinkcspy/toc.html "Interactive Python")
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html "Python Practice Book")
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/ "Learn Python THW")
+* [**NEW** A Byte of Python](http://www.swaroopch.com/notes/python/ "A Byte of Python")
  
 ##### Video Tutorials
 * [thenewboston](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA "thenewboston")
